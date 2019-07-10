@@ -1,0 +1,22 @@
+{
+  "name": "YFCategories",
+  "version": "0.1.0",
+  "summary": "A short description of YFCategories.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/yFeii/YFCategories",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "yFeii": "1486662452@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/yFeii/YFCategories.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "YFCategories/Classes/**/*"
+}

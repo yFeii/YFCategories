@@ -1,0 +1,16 @@
+PODS:
+  - YFCategories (0.1.0)
+
+DEPENDENCIES:
+  - YFCategories (from `../`)
+
+EXTERNAL SOURCES:
+  YFCategories:
+    :path: ../
+
+SPEC CHECKSUMS:
+  YFCategories: 6158c93182e684d022ab6543ea3f1b7de3db67f7
+
+PODFILE CHECKSUM: 170b16d7f0c4153bedbdecf3ee4eadfec5299ecb
+
+COCOAPODS: 1.4.0
